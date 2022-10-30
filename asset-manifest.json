@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todotest/static/css/main.a8f2c90f.css",
+    "main.js": "/todotest/static/js/main.45d2a9e5.js",
+    "static/media/Nekst-Black.ttf": "/todotest/static/media/Nekst-Black.dffaebf93d38d4c41536.ttf",
+    "static/media/Gilroy-Light.ttf": "/todotest/static/media/Gilroy-Light.0ac7c2f9cb59ea1ba11c.ttf",
+    "index.html": "/todotest/index.html",
+    "main.a8f2c90f.css.map": "/todotest/static/css/main.a8f2c90f.css.map",
+    "main.45d2a9e5.js.map": "/todotest/static/js/main.45d2a9e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f2c90f.css",
+    "static/js/main.45d2a9e5.js"
+  ]
+}
