@@ -1,0 +1,52 @@
+    .my-node-enter {
+        opacity: 0;
+    }
+    
+    .my-node-enter-active {
+        opacity: 1;
+        transition: opacity 400ms;
+    }
+    
+    .my-node-exit {
+        opacity: 1;
+    }
+    
+    .my-node-exit-active {
+        opacity: 0;
+        transition: opacity 400ms;
+    }
+    
+    .main-title {
+        font-family: "Nekst-Black";
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+    
+    .todo {
+        font-family: "Gilory-Light";
+    }
+    
+    .todo:hover {
+        background-color: rgb(247, 248, 248);
+        transition: all 0.3s;
+    }
+    
+    .menu {
+        font-family: "Gilory-Light";
+        font-weight: bold;
+    }
+    
+    .hello {
+        font-family: "Nekst-Black";
+    }
+    
+    .modal {
+        width: 500px;
+    }
+    
+    @media (max-width: 500px) {
+        .modal {
+            width: 400px;
+            height: 600px;
+        }
+    }

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "Nekst-Black";
+    src: local("Nekst-Black"), url('./fonts/Nekst-Black.ttf') format("truetype");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Gilroy-Light";
+    src: local("Gilroy-Light"), url('./fonts/Gilroy-Light.ttf') format("truetype");
+}
